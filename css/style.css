@@ -67,7 +67,7 @@ html{
 #home{
     display: flex;
     flex-direction: column;
-    height: 800px;
+    height: 600px;
     /* width: 100%; */
     padding: 3px 200px;
     justify-content: center;
@@ -79,7 +79,7 @@ html{
     background: url('../img/image1.jpg') no-repeat center center/cover;
     top: -20px;
     left: 0px;
-    height: 60%;
+    height: 70%;
     width: 100%;
     z-index: -1;
     opacity: 0.89;
